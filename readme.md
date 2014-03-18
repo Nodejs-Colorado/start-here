@@ -16,9 +16,9 @@ Brought to you by Node.js Colorado - [http://www.meetup.com/Node-js-Denver-Bould
 |-------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
 | [node-getting-started](https://github.com/mjhea0/node-getting-started)                                      | [Getting Started with Node](https://github.com/mjhea0/node-getting-started/blob/master/readme.md)
 | [node-twitter-sentiment](https://github.com/Nodejs-Colorado/node-twitter-sentiment)                         | [Node Twitter Sentiment: Part 1](http://mherman.org/blog/2014/02/19/node-twitter-sentiment/#.UyiDUa1dVSQ)    | 
-| [node-twitter-sentiment-async](https://github.com/Nodejs-Colorado/node-twitter-sentiment-async)             |                          |
-| [node-twitter-sentiment-promises](https://github.com/Nodejs-Colorado/node-twitter-sentiment-promises)       | 
-| [node-twitter-sentiment-databinding](https://github.com/Nodejs-Colorado/node-twitter-sentiment-databinding) |                                                         | 
+| [node-twitter-sentiment-async](https://github.com/Nodejs-Colorado/node-twitter-sentiment-async)             | [Node Twitter Sentiment: Part 2](http://mherman.org/blog/2014/02/19/node-twitter-sentiment/#.UyiDUa1dVSQ)          |                          
+| [node-twitter-sentiment-promises](https://github.com/Nodejs-Colorado/node-twitter-sentiment-promises)       | [Node Twitter Sentiment: Part 2](http://mherman.org/blog/2014/02/19/node-twitter-sentiment/#.UyiDUa1dVSQ)
+| [node-twitter-sentiment-databinding](https://github.com/Nodejs-Colorado/node-twitter-sentiment-databinding) |     [Node Twitter Sentiment: Part 2](http://mherman.org/blog/2014/02/19/node-twitter-sentiment/#.UyiDUa1dVSQ)                                                    | 
 
 ### Meetups
 
@@ -28,4 +28,4 @@ Brought to you by Node.js Colorado - [http://www.meetup.com/Node-js-Denver-Bould
 
 #### 3/17/2014
 
-- Michael Herman went over the [intro](http://mherman.org/blog/2014/02/19/node-twitter-sentiment/#.UyiDUa1dVSQ) again then built on that same intro with Async and Promises. [Blog Post]().
+- Michael Herman went over the [intro](http://mherman.org/blog/2014/02/19/node-twitter-sentiment/#.UyiDUa1dVSQ) again then built on that same intro with Async and Promises. [Blog Post](http://mherman.org/blog/2014/03/18/node-twitter-sentiment-part-2/#.UyiR861dVSQ).
