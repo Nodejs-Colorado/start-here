@@ -29,3 +29,5 @@ Brought to you by Node.js Colorado - [http://www.meetup.com/Node-js-Denver-Bould
 #### 3/17/2014
 
 - Michael Herman went over the [intro](http://mherman.org/blog/2014/02/19/node-twitter-sentiment/#.UyiDUa1dVSQ) again then built on that same intro with Async and Promises. [Blog Post](http://mherman.org/blog/2014/03/18/node-twitter-sentiment-part-2/#.UyiR861dVSQ).
+
+Cheers!
