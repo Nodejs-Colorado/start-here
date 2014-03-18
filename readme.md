@@ -4,8 +4,8 @@ Brought to you by Node.js Colorado - [http://www.meetup.com/Node-js-Denver-Bould
 
 ### New to Node?
 
-- Start with [this](https://github.com/mjhea0/node-getting-started)
-- See [this](http://stackoverflow.com/a/5511507) Stack Overflow for a ton of resources
+- Start [here](https://github.com/mjhea0/node-getting-started)
+- See [this](http://stackoverflow.com/a/5511507) Stack Overflow response for a ton of resources
 - Don't know where/how to start? Stuck? Get in contact with us - michael@mherman.org
 
 ### Repos / Blog Posts
