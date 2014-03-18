@@ -30,4 +30,10 @@ Brought to you by Node.js Colorado - [http://www.meetup.com/Node-js-Denver-Bould
 
 - Michael Herman went over the [intro](http://mherman.org/blog/2014/02/19/node-twitter-sentiment/#.UyiDUa1dVSQ) again then built on that same intro with Async and Promises. [Blog Post](http://mherman.org/blog/2014/03/18/node-twitter-sentiment-part-2/#.UyiR861dVSQ) and [Slides](https://github.com/Nodejs-Colorado/node-meetup-03172014)
 
-Cheers!
+### Future Meeting Ideas
+
+1. Tools: task runner, deployments, builds
+2. Boilerplates
+3. Basic Intro
+
+Issue a PULL to add your own or add them right to the Meetup page. Cheers!
