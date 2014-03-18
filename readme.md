@@ -22,6 +22,10 @@ Brought to you by Node.js Colorado - [http://www.meetup.com/Node-js-Denver-Bould
 
 ### Meetups
 
-#### First  One
+#### 2/18/2014
+
+- For our first meetup, Michael Herman introduced Node.js, creating an application displaying live tweets. [Blog Post](http://mherman.org/blog/2014/02/19/node-twitter-sentiment/#.UyiDUa1dVSQ).
 
 #### 3/17/2014
+
+- Michael Herman went over the [intro](http://mherman.org/blog/2014/02/19/node-twitter-sentiment/#.UyiDUa1dVSQ) again then built on that same intro with Async and Promises. [Blog Post]().
